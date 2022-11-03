@@ -28,3 +28,9 @@ button {
   gap: 30px;
   list-style: none;
 }
+
+#boxes {
+  display: flex;
+  list-style: none;
+
+}
